@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Java Development**
 
-- 💬 Ask me about **Whatever make you pleased**
-
 - 📫 How to reach me **mijat5555@gmail.com**
-
-- ⚡ Fun fact **I always want to be an archaeologist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://fb.com/marko mijatovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marko mijatovic" height="50" width="50" /></a>
